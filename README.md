@@ -3,7 +3,7 @@
 
 Hi there ! 
 
-Today's project is about VLAN'S , inter-VLANS's Sub-interfaces and DHCP configuration in the router 
+Today's project is about VLAN'S , inter-VLANS's Sub-interfaces , subnetting ( 5 subnets) and DHCP configuration in the router 
 
 Equipement : 
 
